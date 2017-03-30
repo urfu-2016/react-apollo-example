@@ -1,0 +1,12 @@
+body
+{
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.root-container
+{
+    display: flex;
+    justify-content: space-around;
+}

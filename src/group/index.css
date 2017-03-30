@@ -1,0 +1,29 @@
+.group
+{
+    display: flex;
+    margin: 5px 0;
+}
+
+.group__id
+{
+    width: 100px;
+}
+
+.group__name
+{
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.group__input
+{
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.group__button
+{
+    width: 70px;
+    margin-right: 5px;
+}

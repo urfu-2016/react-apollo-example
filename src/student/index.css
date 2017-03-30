@@ -1,0 +1,32 @@
+.student
+{
+    display: flex;
+    margin: 5px 0;
+}
+
+.student__id,
+.student__age,
+.student__group,
+.student__input-age,
+.student__input-group
+{
+    box-sizing: border-box;
+    width: 100px;
+}
+
+.student__name,
+.student__input-name
+{
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+
+}
+
+.student__update-button,
+.student__remove-button
+{
+    width: 70px;
+    margin-right: 5px;
+}

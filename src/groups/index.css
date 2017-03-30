@@ -1,0 +1,39 @@
+.groups__title
+{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.groups__columns
+{
+    display: flex;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.groups__column-id
+{
+    width: 100px;
+}
+
+.groups__column-name,
+.groups__form-name
+{
+    width: 200px;
+}
+
+.groups__form
+{
+    margin-top: 20px;
+}
+
+.groups__label-text
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.groups__add-button
+{
+    margin-left: 10px;
+}

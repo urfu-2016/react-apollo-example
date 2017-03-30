@@ -1,0 +1,45 @@
+.students__title
+{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.students__columns
+{
+    display: flex;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.students__column-id,
+.students__column-group,
+.students__column-age
+{
+    width: 100px;
+}
+
+.students__form-name,
+.students__form-group,
+.students__form-age,
+.students__column-name
+{
+    width: 200px;
+}
+
+.students__form
+{
+    display: flex;
+    margin-top: 20px;
+}
+
+.students__label-text
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.students__add-button
+{
+    height: 20px;
+    align-self: flex-end;
+}
